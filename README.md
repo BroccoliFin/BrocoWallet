@@ -50,17 +50,17 @@ Current status: MVP
 4. **Project Structure**
 
 BrocoWallet/
-   ├── assets/                 # images and logos
-   │   └── devbroco.png
-   ├── chromeapi/              # Node.js part with dependencies
-   │   ├── package.json
-   │   └── ...
-   ├── popup.html              # Main wallet interface
-   ├── popup.js                # Core logic (ethers.js + wallet)
-   ├── style.css               # Styles
-   ├── manifest.json           # Extension configuration
-   ├── ethers.js               # Bundled ethers library
-   └── README.md               # This file
+├── assets/                 # images and logos
+│   └── devbroco.png
+├── chromeapi/              # Node.js part with dependencies
+│   ├── package.json
+│   └── ...
+├── popup.html              # Main wallet interface
+├── popup.js                # Core logic (ethers.js + wallet)
+├── style.css               # Styles
+├── manifest.json           # Extension configuration
+├── ethers.js               # Bundled ethers library
+└── README.md               # This file
 
 5. **Configuration (optional)**
 
