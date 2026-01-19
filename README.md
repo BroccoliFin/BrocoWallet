@@ -83,7 +83,6 @@ BrocoWallet/
 
 9.  **Contact**
  
-   Broccolifinance
    GitHub: https://github.com/BroccoliFin
    X: https://x.com/broccolifinance
    Telegram: https://t.me/devbroco
