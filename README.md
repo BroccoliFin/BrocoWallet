@@ -75,7 +75,15 @@ BrocoWallet/
 7. **Contributing**
 
    Pull requests welcome!
-   Fork → branch → commit → PRLicenseMITContactBroccolifinance
+   Fork → branch → commit → PR
+
+8. **License**
+
+   MIT
+
+9.  **Contact**
+ 
+   Broccolifinance
    GitHub: https://github.com/BroccoliFin
    X: https://x.com/broccolifinance
    Telegram: https://t.me/devbroco
