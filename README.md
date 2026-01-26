@@ -31,11 +31,14 @@ Current status: MVP
 2. **Install dependencies (for chromeapi)**
    
    ```bash
-
    cd chromeapi
+   ```
+   ```bash
    npm install
+   ```
+   ```bash
    cd ..
-
+   ```
 3. **Load the extension in Chrome**
    
    Open Chrome and go to chrome://extensions/
