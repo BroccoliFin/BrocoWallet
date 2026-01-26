@@ -24,6 +24,7 @@ Current status: MVP
 
    ```bash
    git clone https://github.com/BroccoliFin/BrocoWallet.git
+   ```
    cd BrocoWallet
 
 2. **Install dependencies (for chromeapi)**
