@@ -5,7 +5,7 @@ Unique HODL-themed design.
 
 Current status: MVP
 
-## Features
+### Features
 - Wallet creation and import
 - Balance & transaction history
 - Sending ETH/tokens
@@ -13,13 +13,13 @@ Current status: MVP
 - Support for Ethereum-compatible networks
 - Modern, clean UI
 
-## Prerequisites
+### Prerequisites
 - Google Chrome (or any Chromium-based browser)
 - Node.js v18+ & npm (required only for chromeapi folder)
 
-## Quick Start
+### Quick Start
 
-1. **Clone the repository**
+1. Clone the repository
 
    ```bash
    git clone https://github.com/BroccoliFin/BrocoWallet.git
@@ -27,7 +27,7 @@ Current status: MVP
    ```bash
    cd BrocoWallet
 
-2. **Install dependencies (for chromeapi)**
+2. Install dependencies (for chromeapi)
    
    ```bash
    cd chromeapi
@@ -38,7 +38,7 @@ Current status: MVP
    ```bash
    cd ..
    ```
-3. **Load the extension in Chrome**
+3. Load the extension in Chrome
    
    Open Chrome and go to chrome://extensions/
    Enable Developer mode (top right corner)
@@ -51,7 +51,7 @@ Current status: MVP
    Switch to testnet (Sepolia recommended)
    Get test ETH: https://sepoliafaucet.com/
 
-4. **Project Structure**
+### Project Structure
 ```
 BrocoWallet/
 ├── assets/                 # images and logos
@@ -67,29 +67,26 @@ BrocoWallet/
 └── README.md               # This file
 ```
 
-5. **Configuration (optional)**
+### Configuration (optional)
 
    If backend features are used (MongoDB, JWT, etc.):Create file chromeapi/.env (do not commit it!)
    Use template from chromeapi/config.env.example
 
-6. **Development**
+### Development
 
    Edit popup.js, popup.html, style.css → reload extension in chrome://extensions/
    Work in chromeapi → run npm install when dependencies change
 
-7. **Contributing**
+### Contributing
+- Pull requests welcome!
+- Fork → branch → commit → PR
 
-   Pull requests welcome!
-   Fork → branch → commit → PR
+### License
+- MIT License
 
-8. **License**
-
-   MIT
-
-9.  **Contact**
- 
-   GitHub: https://github.com/BroccoliFin
-   X: https://x.com/broccolifinance
-   Telegram: https://t.me/devbroco
-Questions, bugs, ideas — open an Issue!
+### Contact
+- GitHub: https://github.com/BroccoliFin
+- X: https://x.com/broccolifinance
+- Telegram: https://t.me/devbroco
+- Questions, bugs, ideas — open an Issue!
 
