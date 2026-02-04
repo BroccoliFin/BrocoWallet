@@ -53,7 +53,7 @@ Current status: MVP
    Get test ETH: https://sepoliafaucet.com/
 
 4. **Project Structure**
-
+```
 BrocoWallet/
 ├── assets/                 # images and logos
 │   └── devbroco.png
@@ -66,6 +66,7 @@ BrocoWallet/
 ├── manifest.json           # Extension configuration
 ├── ethers.js               # Bundled ethers library
 └── README.md               # This file
+```
 
 5. **Configuration (optional)**
 
