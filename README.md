@@ -1,6 +1,5 @@
 # BrocoWallet
-
-**BrocoWallet** is a custom cryptocurrency wallet Chrome extension inspired by MetaMask.  
+BrocoWallet is a custom cryptocurrency wallet Chrome extension inspired by MetaMask.  
 It allows users to manage wallets, view balances, send transactions, and interact with dApps using ethers.js.  
 Unique HODL-themed design.
 
